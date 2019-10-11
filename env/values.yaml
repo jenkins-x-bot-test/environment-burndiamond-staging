@@ -12,6 +12,7 @@ expose:
   Args:
   - --v
   - 4
+  production: true
   config:
     domain: aps-burndiamond.jxaas.io
     exposer: Ingress
